@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 7b2a20898b202ca4f837d431f8ad9c43
+  - enabled: 1
+    path: Assets/Scenes/Rejoice.unity
+    guid: df47f47132485e14981892ff9c8306b1
+  - enabled: 1
+    path: Assets/Scenes/Catharsis.unity
+    guid: b61fd09ed471edc42897a91c165ad304
+  - enabled: 1
+    path: Assets/Scenes/Hubris.unity
+    guid: 11f995259682d3944a3df7111dec3b99
+  - enabled: 1
+    path: Assets/Scenes/Fall.unity
+    guid: d2e2c0ef323d9504c95f06b24687de2e
+  - enabled: 1
+    path: Assets/Scenes/Betrayal.unity
+    guid: 319356e4852f6c34792f92de04afb7cf
+  - enabled: 1
+    path: Assets/Scenes/Contest.unity
+    guid: 2931c2f9a1b607b4db88acbc38c86314
+  - enabled: 1
+    path: Assets/Scenes/Background.unity
+    guid: f64e43e6b339c2444827fc26facf3542
+  - enabled: 1
+    path: Assets/Scenes/Introduction.unity
+    guid: ecae90a3a05fa624d9f73fccc9748c95
+  - enabled: 1
+    path: Assets/Scenes/DeusExMachina.unity
+    guid: 36c9153d94c41fe4d89d8e548f286111
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: ee3d798bb97ff7f4b9ed9dc6bfd8b5a7
+  m_configObjects: {}
